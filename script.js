@@ -1,3 +1,5 @@
+alert("Account number:01230123 and password:998899 and click this icon for help(!)");
+
 function showe()
 {
     $("#begin").show();
